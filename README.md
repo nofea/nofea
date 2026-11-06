@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nofea
 - 👀 I’m interested in games
-- 🌱 I’m currently learning C++, Python and Godot
+- 🌱 I’m currently Agenting Coding
 - 💞️ I’m looking to collaborate on games
 - 📫 Reach me at nofearsheenhere@gmail.com
 
